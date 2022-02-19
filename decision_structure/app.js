@@ -23,7 +23,7 @@ readLine.question("What is the year of your birth", year => {
                                 console.log("welcome to kart Rafael.");
                                 break;
                                  default:
-                                console.log("Your name was not found.");
+                                console.log("Your name was not found..");
                     }
                 });
             }
